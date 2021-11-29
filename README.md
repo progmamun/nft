@@ -1,6 +1,3 @@
-##nft
--- Python
--- Colab-link:
-`https://colab.research.google.com/`
+## NFT
 
-```! unzip /path copy and paste/```
+- project 1: NFT Python collection
